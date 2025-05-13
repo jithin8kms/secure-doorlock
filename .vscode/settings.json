@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "cmsis_os.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c"
+    }
+}
